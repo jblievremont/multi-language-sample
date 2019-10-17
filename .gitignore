@@ -1,0 +1,5 @@
+.sfdx/
+out/
+src/main/c-cpp/sample-*
+src/main/c-cpp/build-wrapper*
+
